@@ -1,2 +1,2 @@
 # DotNetApp.Library
-The ultimate .NET library to develop distributed microservice based architecture.
+The ultimate .NET library to develop distributed microservice based application.
